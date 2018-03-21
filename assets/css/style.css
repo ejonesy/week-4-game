@@ -1,0 +1,32 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url("assets/images/gems.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: teal;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-image: url("https://melodycphotography.deviantart.com/art/Gems-1-136844289");
+    color: chartreuse;
+    background-color: teal;
+}
+
+.btn {
+    color: cadetblue;
+}
+
+.crystal-cat {
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    background-image: url("assets/images/gems.jpg");
+}
